@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Juros Compostos",
+  "description": "Um simulador avançado de juros compostos com visualização gráfica e análise financeira via IA.",
+  "requestFramePermissions": []
+}
